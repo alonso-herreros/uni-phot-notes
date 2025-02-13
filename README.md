@@ -1,6 +1,6 @@
-# Photonics - Notes
+# Fotónica - Apuntes
 **`[GITT]` `[Sem 3.2]` `[Phot]` `(Spring 2025)`**
 
-**Telecommunication Technologies Engineering** | *Universidad Carlos III de Madrid*
+**Ingeniería en Tecnologías de Telecomunicación** | *Universidad Carlos III de Madrid*
 
 ---
